@@ -6,7 +6,7 @@ Contudo, comecei minha carreira profissional na sala de aula, como professora de
 Atualmente, decidi abraçar um desejo antigo e me jogar no mundo da tecnologia. 
 
 - 🌱 Estou estudando Desenvolvimento de Software com foco em back-end na Cubos Academy.
--  As tecnologias que estudo são JavaScript, Node.js, TypeScript e SQL.
+-  As tecnologias que estudo são JavaScript, Node.js, TypeScript, C#, .NET e SQL.
 
 - ## Contatos:
 - <a href="https://www.linkedin.com/in/paula-borges-49b7bb191/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
